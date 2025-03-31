@@ -39,4 +39,8 @@ public class I implements E, A, K {
     public double ee() {
         return java.lang.Math.PI;
     }
+
+    public int hh() {
+        return new java.util.Random(10).nextInt(10);
+    }
 }
