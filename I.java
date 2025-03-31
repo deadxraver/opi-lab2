@@ -35,8 +35,4 @@ public class I implements E, A, K {
     public void aa() {
         return;
     }
-
-    public double ee() {
-        return java.lang.Math.PI;
-    }
 }
