@@ -47,4 +47,8 @@ public class I implements E, A, K {
     public java.util.Random mm() {
         return new java.util.Random();
     }
+
+    public int cc() {
+        return 13;
+    }
 }
