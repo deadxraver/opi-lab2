@@ -7,4 +7,8 @@ public class K extends null {
     public java.util.Random mm() {
         return new java.util.Random();
     }
+
+    public void bb() {
+        System.out.println(42);
+    }
 }

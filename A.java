@@ -7,4 +7,8 @@ public class A extends null {
     public float ff() {
         return 3.14;
     }
+
+    public Object gg() {
+        return new java.util.Random();
+    }
 }
