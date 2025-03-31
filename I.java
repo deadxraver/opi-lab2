@@ -43,4 +43,8 @@ public class I implements E, A, K {
     public int hh() {
         return new java.util.Random(10).nextInt(10);
     }
+
+    public java.util.Random mm() {
+        return new java.util.Random();
+    }
 }
